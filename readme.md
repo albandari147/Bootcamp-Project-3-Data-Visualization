@@ -20,7 +20,7 @@ The dataset we used https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-
 4. What is the average price for duplexes in each neighborhood?
 <img src="Duplex Averge Price.png"  width="400" height="400">
 
-5. Waht is the Average space of duplexes by neighborhood?
+5. Waht is the Average space of duplexes by Location?
 
 <img src="Duplex Averge Space.png"  width="400" height="400">
 
